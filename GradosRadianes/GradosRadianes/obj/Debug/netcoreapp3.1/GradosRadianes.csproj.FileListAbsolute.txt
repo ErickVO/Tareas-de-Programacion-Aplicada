@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\bin\Debug\netcoreapp3.1\GradosRadianes.exe
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\bin\Debug\netcoreapp3.1\GradosRadianes.deps.json
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\bin\Debug\netcoreapp3.1\GradosRadianes.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\bin\Debug\netcoreapp3.1\GradosRadianes.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\bin\Debug\netcoreapp3.1\GradosRadianes.dll
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\bin\Debug\netcoreapp3.1\GradosRadianes.pdb
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\obj\Debug\netcoreapp3.1\GradosRadianes.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\obj\Debug\netcoreapp3.1\GradosRadianes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\obj\Debug\netcoreapp3.1\GradosRadianes.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\obj\Debug\netcoreapp3.1\GradosRadianes.dll
+C:\Users\LENOVO\Desktop\Tarea1\GradosRadianes\GradosRadianes\obj\Debug\netcoreapp3.1\GradosRadianes.pdb

@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\bin\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.exe
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\bin\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.deps.json
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\bin\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\bin\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\bin\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.dll
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\bin\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.pdb
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\obj\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\obj\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\obj\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\obj\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.dll
+C:\Users\LENOVO\Desktop\Tarea1\EjercicioPerimetroPoligono\EjercicioPerimetroPoligono\obj\Debug\netcoreapp3.1\EjercicioPerimetroPoligono.pdb

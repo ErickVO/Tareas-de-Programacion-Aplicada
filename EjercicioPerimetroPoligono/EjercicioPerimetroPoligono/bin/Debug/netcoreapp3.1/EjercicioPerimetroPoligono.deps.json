@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EjercicioPerimetroPoligono/1.0.0": {
+        "runtime": {
+          "EjercicioPerimetroPoligono.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioPerimetroPoligono/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
