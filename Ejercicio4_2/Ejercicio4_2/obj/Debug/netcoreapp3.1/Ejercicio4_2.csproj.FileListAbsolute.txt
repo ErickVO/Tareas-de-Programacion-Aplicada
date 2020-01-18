@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\bin\Debug\netcoreapp3.1\Ejercicio4_2.exe
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\bin\Debug\netcoreapp3.1\Ejercicio4_2.deps.json
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\bin\Debug\netcoreapp3.1\Ejercicio4_2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\bin\Debug\netcoreapp3.1\Ejercicio4_2.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\bin\Debug\netcoreapp3.1\Ejercicio4_2.dll
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\bin\Debug\netcoreapp3.1\Ejercicio4_2.pdb
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\obj\Debug\netcoreapp3.1\Ejercicio4_2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\obj\Debug\netcoreapp3.1\Ejercicio4_2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\obj\Debug\netcoreapp3.1\Ejercicio4_2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\obj\Debug\netcoreapp3.1\Ejercicio4_2.dll
+C:\Users\LENOVO\source\repos\Ejercicio4_2\Ejercicio4_2\obj\Debug\netcoreapp3.1\Ejercicio4_2.pdb
