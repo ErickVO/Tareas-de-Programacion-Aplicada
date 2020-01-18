@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\bin\Debug\netcoreapp3.1\CentiaFaren.exe
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\bin\Debug\netcoreapp3.1\CentiaFaren.deps.json
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\bin\Debug\netcoreapp3.1\CentiaFaren.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\bin\Debug\netcoreapp3.1\CentiaFaren.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\bin\Debug\netcoreapp3.1\CentiaFaren.dll
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\bin\Debug\netcoreapp3.1\CentiaFaren.pdb
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\obj\Debug\netcoreapp3.1\CentiaFaren.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\obj\Debug\netcoreapp3.1\CentiaFaren.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\obj\Debug\netcoreapp3.1\CentiaFaren.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\obj\Debug\netcoreapp3.1\CentiaFaren.dll
+C:\Users\LENOVO\Desktop\Tarea1\CentiaFaren\CentiaFaren\obj\Debug\netcoreapp3.1\CentiaFaren.pdb

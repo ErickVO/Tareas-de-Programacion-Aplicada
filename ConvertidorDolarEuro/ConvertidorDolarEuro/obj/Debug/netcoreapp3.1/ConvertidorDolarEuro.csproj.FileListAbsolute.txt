@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\bin\Debug\netcoreapp3.1\ConvertidorDolarEuro.exe
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\bin\Debug\netcoreapp3.1\ConvertidorDolarEuro.deps.json
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\bin\Debug\netcoreapp3.1\ConvertidorDolarEuro.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\bin\Debug\netcoreapp3.1\ConvertidorDolarEuro.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\bin\Debug\netcoreapp3.1\ConvertidorDolarEuro.dll
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\bin\Debug\netcoreapp3.1\ConvertidorDolarEuro.pdb
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\obj\Debug\netcoreapp3.1\ConvertidorDolarEuro.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\obj\Debug\netcoreapp3.1\ConvertidorDolarEuro.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\obj\Debug\netcoreapp3.1\ConvertidorDolarEuro.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\obj\Debug\netcoreapp3.1\ConvertidorDolarEuro.dll
+C:\Users\LENOVO\Desktop\Tarea1\ConvertidorDolarEuro\ConvertidorDolarEuro\obj\Debug\netcoreapp3.1\ConvertidorDolarEuro.pdb
